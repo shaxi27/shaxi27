@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shaxi27
+- 👀 I’m interested in working on creative R Studio projects 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on improving my Python skills 
+- 📫 How to reach me shaxi27 at github
